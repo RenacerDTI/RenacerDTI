@@ -6,7 +6,7 @@ Desarrollamos y mantenemos aplicaciones y servicios que soportan las operaciones
 digitales de nuestra organización.
 
 </div>
-Quiénes somos
+## Quiénes somos
 
 ARS Renacer es una administradora de riesgos de salud dominicana enfocada en ofrecer cobertura confiable y un servicio cercano a nuestros afiliados. Este espacio en GitHub reúne el trabajo de nuestro equipo de tecnología, encargado de digitalizar y simplificar la experiencia de nuestros afiliados, proveedores y colaboradores.
 
