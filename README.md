@@ -77,7 +77,19 @@ Para información institucional sobre ARS Renacer:
 ### ARS Renacer
 
 🌐 Sitio web: [www.arsrenacer.com](https://arsrenacer.com/)
-![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=50&color=%233b82f6) https://www.facebook.com/people/ARS-Renacer/61567818505146/
+<p> 
+  ![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=50&color=%233b82f6) https://www.facebook.com/people/ARS-Renacer/61567818505146/
+</p>
+
+<p> 
+</p>
+
+<p> 
+</p>
+
+<p> 
+</p>
+
 ![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=50) www.instagram.com/arsrenacer.rd/
 ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=50) https://www.linkedin.com/company/ars-renacer/home/
 
