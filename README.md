@@ -1,10 +1,9 @@
-ARS RENACER
+#ARS RENACER
 
-Tu bienestar es nuestra prioridad número uno.
+Soluciones digitales orientadas a ofrecer experiencias seguras, eficientes y escalables.
 
-Seguro de salud con sólidos principios, pensado para tu tranquilidad y la de tu familia.
-
-Sitio web LinkedIn Facebook
+Desarrollamos y mantenemos aplicaciones y servicios que soportan las operaciones
+digitales de nuestra organización.
 
 </div>
 Quiénes somos
