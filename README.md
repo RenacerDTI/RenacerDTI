@@ -61,7 +61,7 @@ Git · GitHub · CI/CD · Docker
 ### Security & Observability
 Application Security · Logging · Monitoring · Auditing
 <p>
-  <img src="https://skillicons.dev/icons?i=opentelemetry,grafana" alt="Security"/>
+  <img src="https://skillicons.dev/icons?i=grafana" alt="Security"/>
 </p>
 
 <div align="center">
@@ -77,21 +77,9 @@ Para información institucional sobre ARS Renacer:
 ### ARS Renacer
 
 🌐 Sitio web: [www.arsrenacer.com](https://arsrenacer.com/)
-<p> 
-  ![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=50&color=%233b82f6) https://www.facebook.com/people/ARS-Renacer/61567818505146/
-</p>
-
-<p> 
-</p>
-
-<p> 
-</p>
-
-<p> 
-</p>
-
-![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=50) www.instagram.com/arsrenacer.rd/
-![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=50) https://www.linkedin.com/company/ars-renacer/home/
+![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=25&color=%233b82f6) https://www.facebook.com/people/ARS-Renacer/61567818505146/
+![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=25) www.instagram.com/arsrenacer.rd/
+![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=55) https://www.linkedin.com/company/ars-renacer/home/
 
 <p align="center"> <strong>ARS Renacer</strong> </p>
 
