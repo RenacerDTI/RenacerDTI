@@ -1,10 +1,12 @@
 # ARS RENACER
 
-Soluciones digitales orientadas a ofrecer experiencias seguras, eficientes y escalables.
+<p align="center"> <img src="./profile/assets/logo.png" alt="ARS Renacer" width="180"> </p>
 
-Desarrollamos y mantenemos aplicaciones y servicios que soportan las operaciones
-digitales de nuestra organización.
+<p align="center"> <strong>Tecnología al servicio de la salud</strong> </p>
 
+<p align="center"> Soluciones digitales para una experiencia más eficiente, segura y conectada. </p>
+
+<p align="center"> <a href="https://www.arsrenacer.com/">Website</a> · <a
 </div>
 
 ## Quiénes somos
