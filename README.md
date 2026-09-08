@@ -1,6 +1,6 @@
 # ARS RENACER
 
-<p align="center"> <img src="./profile/Logo_blanco.png" alt="ARS Renacer" width="180"> </p>
+<p align="center"> <img src="./profile/assets/Logo_blanco.png" alt="ARS Renacer" width="180"> </p>
 
 <p align="center"> <strong>Tecnología al servicio de la salud</strong> </p>
 
