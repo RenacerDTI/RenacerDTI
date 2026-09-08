@@ -49,7 +49,7 @@ React · TypeScript · JavaScript · Vite · Material UI
 ### Database
 SQL Server
 <p>
-  <img src="https://skillicons.dev/icons?i=sql" alt="Database"/>
+  <img src="https://skillicons.dev/icons?i=azure" alt="Database"/>
 </p>
 
 ### DevOps & Infrastructure
