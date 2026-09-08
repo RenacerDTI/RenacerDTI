@@ -38,31 +38,26 @@ Control de visitas por QR	Sistema para registrar, validar y monitorear el acceso
 ## Tecnologías
 
 ### Frontend
-React · TypeScript · JavaScript · Vite · Material UI
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,ts,vite,materialui" alt="Frontend"/>
 </p>
 
 ### Backend
-.NET · C# · REST APIs
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,cs,postman,flutter" alt="Backend"/>
 </p>
 
 ### Database
-SQL Server
 <p>
   <img src="https://skillicons.dev/icons?i=azure" alt="Database"/>
 </p>
 
 ### DevOps & Infrastructure
-Git · GitHub · CI/CD · Docker
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" alt="DevOps_Infrastructure"/>
 </p>
 
 ### Security & Observability
-Application Security · Logging · Monitoring · Auditing
 <p>
   <img src="https://skillicons.dev/icons?i=grafana" alt="Security"/>
 </p>
