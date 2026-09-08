@@ -6,7 +6,6 @@
 
 <p align="center"> Soluciones digitales para una experiencia más eficiente, segura y conectada. </p>
 
-<p align="center"> <a href="[https://www.arsrenacer.com/](https://arsrenacer.com/)">ARS Renacer</a> · <a
 </div>
 
 ## Quiénes somos
@@ -31,6 +30,12 @@ Carnés digitales de colaboradores	Componentes para la generación de identifica
 Control de visitas por QR	Sistema para registrar, validar y monitorear el acceso de visitantes a nuestras instalaciones mediante códigos QR	React · Node.js · PostgreSQL
 
 Estos proyectos se encuentran en distintas etapas de desarrollo interno.
+
+<div align="center">
+
+Show Image Show Image Show Image Show Image Show Image Show Image
+
+</div>
 
 ## Tecnologías
 
@@ -63,12 +68,6 @@ Application Security · Logging · Monitoring · Auditing
 <p>
   <img src="https://skillicons.dev/icons?i=grafana" alt="Security"/>
 </p>
-
-<div align="center">
-
-Show Image Show Image Show Image Show Image Show Image Show Image
-
-</div>
 
 ## Contact
 
