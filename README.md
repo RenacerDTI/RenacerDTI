@@ -36,6 +36,18 @@ Estos proyectos se encuentran en distintas etapas de desarrollo interno.
 
 ### Frontend
 React · TypeScript · JavaScript · Vite · Material UI
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,cs,html,css,js,ts,php" alt="Lenguajes"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind" alt="Librerías de estilos"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,redux,flutter,laravel,nodejs" alt="Frameworks"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,mysql,postman,visualstudio,vscode" alt="Herramientas"/>
+</p>
 
 ### Backend
 .NET · C# · REST APIs
@@ -48,6 +60,7 @@ Git · GitHub · CI/CD · Docker
 
 ### Security & Observability
 Application Security · Logging · Monitoring · Auditing
+
 
 <div align="center">
 
