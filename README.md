@@ -27,9 +27,7 @@ Nuestro equipo de desarrollo mantiene un ecosistema de soluciones internas orien
 Iniciativa	Descripción	Stack
 App de afiliados	Aplicación móvil para la gestión del seguro de salud: carné digital, red de proveedores y citas	Flutter · .NET 6 · SQL Server
 Carnés digitales de colaboradores	Componentes para la generación de identificaciones digitales del personal	React · Material UI
-Control de visitas por QR	Sistema para registrar, validar y monitorear el acceso de visitantes a nuestras instalaciones mediante códigos QR	React · Node.js · PostgreSQL
-
-Estos proyectos se encuentran en distintas etapas de desarrollo interno.
+Control de visitas por QR	Sistema para registrar, validar y monitorear el acceso de visitantes a nuestras instalaciones mediante códigos QR	
 
 <div align="center">
 
