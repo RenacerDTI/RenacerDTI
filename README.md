@@ -37,30 +37,32 @@ Estos proyectos se encuentran en distintas etapas de desarrollo interno.
 ### Frontend
 React · TypeScript · JavaScript · Vite · Material UI
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,cs,react,js,ts,php,vite,materialui" alt="Lenguajes"/>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind" alt="Librerías de estilos"/>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,redux,flutter,laravel,nodejs" alt="Frameworks"/>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,mysql,postman,visualstudio,vscode" alt="Herramientas"/>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,vite,materialui" alt="Frontend"/>
 </p>
 
 ### Backend
 .NET · C# · REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postman,flutter" alt="Backend"/>
+</p>
 
 ### Database
 SQL Server
+<p>
+  <img src="https://skillicons.dev/icons?i=sql" alt="Database"/>
+</p>
 
 ### DevOps & Infrastructure
 Git · GitHub · CI/CD · Docker
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="DevOps_Infrastructure"/>
+</p>
 
 ### Security & Observability
 Application Security · Logging · Monitoring · Auditing
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,sql,postman,visualstudio,vscode" alt="Security"/>
+</p>
 
 <div align="center">
 
