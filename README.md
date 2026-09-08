@@ -55,13 +55,13 @@ SQL Server
 ### DevOps & Infrastructure
 Git · GitHub · CI/CD · Docker
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="DevOps_Infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,actions" alt="DevOps_Infrastructure"/>
 </p>
 
 ### Security & Observability
 Application Security · Logging · Monitoring · Auditing
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,sql,postman,visualstudio,vscode" alt="Security"/>
+  <img src="https://skillicons.dev/icons?i=opentelemetry,grafana" alt="Security"/>
 </p>
 
 <div align="center">
