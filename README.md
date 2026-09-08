@@ -31,7 +31,7 @@ Control de visitas por QR	Sistema para registrar, validar y monitorear el acceso
 
 <div align="center">
 
-Show Image Show Image Show Image Show Image Show Image Show Image
+
 
 </div>
 
