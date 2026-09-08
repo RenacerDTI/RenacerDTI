@@ -1,4 +1,4 @@
-#ARS RENACER
+# ARS RENACER
 
 Soluciones digitales orientadas a ofrecer experiencias seguras, eficientes y escalables.
 
@@ -18,7 +18,7 @@ evolución de soluciones digitales para nuestros usuarios y procesos internos.
 Nuestro trabajo combina desarrollo de software, seguridad, automatización,
 observabilidad y buenas prácticas de ingeniería.
 
-En qué estamos trabajando
+## En qué estamos trabajando
 
 Nuestro equipo de desarrollo mantiene un ecosistema de soluciones internas orientadas a mejorar la gestión del seguro de salud:
 
@@ -29,13 +29,13 @@ Control de visitas por QR	Sistema para registrar, validar y monitorear el acceso
 
 Estos proyectos se encuentran en distintas etapas de desarrollo interno.
 
-Tecnologías
+### Tecnologías
 <div align="center">
 
 Show Image Show Image Show Image Show Image Show Image Show Image
 
 </div>
-Contacto
+### Contacto
 
 ¿Tienes alguna consulta sobre tu seguro? Visítanos en arsrenacer.com o síguenos en nuestras redes sociales.
 
