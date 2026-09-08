@@ -6,7 +6,7 @@
 
 <p align="center"> Soluciones digitales para una experiencia más eficiente, segura y conectada. </p>
 
-<p align="center"> <a href="[https://www.arsrenacer.com/](https://arsrenacer.com/)">Website</a> · <a
+<p align="center"> <a href="[https://www.arsrenacer.com/](https://arsrenacer.com/)">ARS Renacer</a> · <a
 </div>
 
 ## Quiénes somos
