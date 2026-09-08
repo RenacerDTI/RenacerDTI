@@ -54,12 +54,17 @@ Application Security · Logging · Monitoring · Auditing
 Show Image Show Image Show Image Show Image Show Image Show Image
 
 </div>
-### Contacto
 
-¿Tienes alguna consulta sobre tu seguro? Visítanos en arsrenacer.com o síguenos en nuestras redes sociales.
+## Contact
 
-<div align="center">
+Para información institucional sobre ARS Renacer:
 
-<sub>© ARS Renacer — Todos los derechos reservados.</sub>
+### ARS Renacer
 
-</div>
+🌐 Sitio web: www.arsrenacer.com
+
+<p align="center"> <strong>ARS Renacer</strong> </p>
+
+<p align="center"> Tecnología · Innovación · Seguridad · Salud </p>
+
+<p align="center"> © 2026 ARS Renacer </p>
