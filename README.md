@@ -37,7 +37,7 @@ Estos proyectos se encuentran en distintas etapas de desarrollo interno.
 ### Frontend
 React · TypeScript · JavaScript · Vite · Material UI
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,cs,html,css,js,ts,php" alt="Lenguajes"/>
+  <img src="https://skillicons.dev/icons?i=dart,cs,html,css,js,ts,php,react" alt="Lenguajes"/>
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind" alt="Librerías de estilos"/>
