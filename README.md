@@ -30,7 +30,23 @@ Control de visitas por QR	Sistema para registrar, validar y monitorear el acceso
 
 Estos proyectos se encuentran en distintas etapas de desarrollo interno.
 
-### Tecnologías
+## Tecnologías
+
+### Frontend
+React · TypeScript · JavaScript · Vite · Material UI
+
+### Backend
+.NET · C# · REST APIs
+
+### Database
+SQL Server
+
+### DevOps & Infrastructure
+Git · GitHub · CI/CD · Docker
+
+### Security & Observability
+Application Security · Logging · Monitoring · Auditing
+
 <div align="center">
 
 Show Image Show Image Show Image Show Image Show Image Show Image
