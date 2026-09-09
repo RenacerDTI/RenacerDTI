@@ -67,7 +67,6 @@ Plataforma de gestión comercial para agentes y supervisores: procesamiento de c
 <td><img src="https://img.shields.io/badge/-En%20uso%20interno-15803d?style=flat-square" alt="En uso interno"></td>
 </tr>
 </table>
-
 <br>
 
 ## Contacto
