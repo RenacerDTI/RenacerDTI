@@ -14,10 +14,10 @@ Para información institucional sobre ARS Renacer:
 
 🌐 Sitio web: www.arsrenacer.com
 
-![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=17&color=%233b82f6) Facebook: ARS Renacer
+![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=17&color=%233b82f6)  Facebook: ARS Renacer
 
-![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=17) Instagram: www.instagram.com/arsrenacer.rd
+![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=17)  Instagram: www.instagram.com/arsrenacer.rd
 
-![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=17) LinkedIn: ARS Renacer
+![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=17)  LinkedIn: ARS Renacer
 
 <p align="center"> Tecnología · Innovación · Seguridad · Salud </p> <p align="center"> © 2026 ARS Renacer </p>
