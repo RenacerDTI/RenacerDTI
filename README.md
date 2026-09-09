@@ -62,6 +62,27 @@ Módulo interno para la generación de identificaciones digitales del personal, 
 </tr>
 <tr>
 <td>
+<strong>RenaOffice — Oficina Virtual</strong><br>
+Plataforma web de autogestión con portales independientes para afiliados, prestadores y promotores: carné digital, autorizaciones, pagos, comisiones y consulta de póliza en un solo lugar.
+</td>
+<td><img src="https://img.shields.io/badge/-En%20uso%20interno-15803d?style=flat-square" alt="En uso interno"></td>
+</tr>
+<tr>
+<td>
+<strong>Portal de Autorizaciones</strong><br>
+Sistema para la generación, consulta y seguimiento de autorizaciones de servicios médicos, con gestión del núcleo familiar y reportes.
+</td>
+<td><img src="https://img.shields.io/badge/-En%20uso%20interno-15803d?style=flat-square" alt="En uso interno"></td>
+</tr>
+<tr>
+<td>
+<strong>Pro-Services</strong><br>
+Plataforma de gestión comercial para agentes y supervisores: procesamiento de comisiones, atención al afiliado y administración de accesos.
+</td>
+<td><img src="https://img.shields.io/badge/-En%20uso%20interno-15803d?style=flat-square" alt="En uso interno"></td>
+</tr>
+<tr>
+<td>
 <strong>Control de Visitas por QR</strong><br>
 Sistema para registrar, validar y monitorear el acceso de visitantes a nuestras instalaciones mediante códigos QR, con notificaciones y reportes en tiempo real.
 </td>
