@@ -62,6 +62,27 @@ Módulo interno para la generación de identificaciones digitales del personal, 
 </tr>
 <tr>
 <td>
+<strong>Portal de Agentes y Supervisores</strong><br>
+Plataforma web para que agentes y supervisores gestionen el registro y seguimiento de nuevos afiliados.
+</td>
+<td><img src="https://img.shields.io/badge/-En%20desarrollo-2563eb?style=flat-square" alt="En desarrollo"></td>
+</tr>
+<tr>
+<td>
+<strong>RenaOffice — Gestión Operativa</strong><br>
+Sistema de back-office para la administración de autorizaciones, reclamaciones, prestadores de servicios y comisiones de promotores.
+</td>
+<td><img src="https://img.shields.io/badge/-En%20uso%20interno-15803d?style=flat-square" alt="En uso interno"></td>
+</tr>
+<tr>
+<td>
+<strong>Servicio de Autenticación Centralizada</strong><br>
+Componente de infraestructura que centraliza el inicio de sesión y el control de acceso entre las distintas plataformas internas.
+</td>
+<td><img src="https://img.shields.io/badge/-En%20desarrollo-2563eb?style=flat-square" alt="En desarrollo"></td>
+</tr>
+<tr>
+<td>
 <strong>Control de Visitas por QR</strong><br>
 Sistema para registrar, validar y monitorear el acceso de visitantes a nuestras instalaciones mediante códigos QR, con notificaciones y reportes en tiempo real.
 </td>
