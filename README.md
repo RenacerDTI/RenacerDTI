@@ -45,14 +45,6 @@ Algunas de las soluciones que hemos desarrollado como parte de nuestra transform
 <tr>
 <th align="left" width="65%">Proyecto</th>
 <th align="left">Estado</th>
-
-<tr>
-<td>
-<strong>Carnés Digitales de Colaboradores</strong><br>
-Módulo interno para la generación de identificaciones digitales del personal, con estilos dinámicos e integración con los sistemas existentes.
-</td>
-<td><img src="https://img.shields.io/badge/-En%20uso%20interno-15803d?style=flat-square" alt="En uso interno"></td>
-</tr>
 <tr>
 <td>
 <strong>RenaOffice — Oficina Virtual</strong><br>
@@ -73,13 +65,6 @@ Sistema para la generación, consulta y seguimiento de autorizaciones de servici
 Plataforma de gestión comercial para agentes y supervisores: procesamiento de comisiones, atención al afiliado y administración de accesos.
 </td>
 <td><img src="https://img.shields.io/badge/-En%20uso%20interno-15803d?style=flat-square" alt="En uso interno"></td>
-</tr>
-<tr>
-<td>
-<strong>Control de Visitas por QR</strong><br>
-Sistema para registrar, validar y monitorear el acceso de visitantes a nuestras instalaciones mediante códigos QR, con notificaciones y reportes en tiempo real.
-</td>
-<td><img src="https://img.shields.io/badge/-En%20planificación-b45309?style=flat-square" alt="En planificación"></td>
 </tr>
 </table>
 
