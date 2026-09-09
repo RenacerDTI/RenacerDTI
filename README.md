@@ -1,4 +1,4 @@
-<p align="center"> <img src="assets/Logo_blanco.png" alt="ARS Renacer" width="280" height="80"> </p> <p align="center"> <strong>Tecnología al servicio de la salud</strong> </p> <p align="center"> Soluciones digitales para una experiencia más eficiente, segura y conectada. </p> <br>
+<p align="center"> <img src="assets/Logo_blanco.png" alt="ARS Renacer" width="280" height="120"> </p> <p align="center"> <strong>Tecnología al servicio de la salud</strong> </p> <p align="center"> Soluciones digitales para una experiencia más eficiente, segura y conectada. </p> <br>
 Quiénes somos
 
 ARS Renacer es una administradora de riesgos de salud dominicana enfocada en ofrecer cobertura confiable y un servicio cercano a nuestros afiliados. Este espacio en GitHub reúne el trabajo de nuestro equipo de tecnología, encargado de digitalizar y simplificar la experiencia de nuestros afiliados, proveedores y colaboradores.
