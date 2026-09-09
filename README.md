@@ -52,7 +52,7 @@ Control de visitas por QR	Sistema para registrar, validar y monitorear el acceso
 
 ### DevOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" alt="DevOps_Infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,azure" alt="DevOps_Infrastructure"/>
 </p>
 
 ### Security & Observability
