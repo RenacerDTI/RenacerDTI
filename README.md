@@ -45,14 +45,7 @@ Algunas de las soluciones que hemos desarrollado como parte de nuestra transform
 <tr>
 <th align="left" width="65%">Proyecto</th>
 <th align="left">Estado</th>
-</tr>
-<tr>
-<td>
-<strong>App de Afiliados</strong><br>
-Aplicación móvil para la gestión del seguro de salud: carné digital, red de proveedores, citas y autenticación de afiliados.
-</td>
-<td><img src="https://img.shields.io/badge/-En%20desarrollo-2563eb?style=flat-square" alt="En desarrollo"></td>
-</tr>
+
 <tr>
 <td>
 <strong>Carnés Digitales de Colaboradores</strong><br>
