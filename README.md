@@ -50,14 +50,14 @@ Algunas de las soluciones que hemos desarrollado como parte de nuestra transform
 <strong>RenaOffice — Oficina Virtual</strong><br>
 Plataforma web de autogestión con portales independientes para afiliados, prestadores y promotores: carné digital, autorizaciones, pagos, comisiones y consulta de póliza en un solo lugar.
 </td>
-<td><img src="https://img.shields.io/badge/-En%20uso%20interno-15803d?style=flat-square" alt="En uso interno"></td>
+<td><img src="https://img.shields.io/badge/-Publico-15803d?style=flat-square" alt="Publico"></td>
 </tr>
 <tr>
 <td>
 <strong>Portal de Autorizaciones</strong><br>
 Sistema para la generación, consulta y seguimiento de autorizaciones de servicios médicos, con gestión del núcleo familiar y reportes.
 </td>
-<td><img src="https://img.shields.io/badge/-En%20uso%20interno-15803d?style=flat-square" alt="En uso interno"></td>
+<td><img src="https://img.shields.io/badge/-Publico-15803d?style=flat-square" alt="Publico"></td>
 </tr>
 <tr>
 <td>
